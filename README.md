@@ -1,6 +1,6 @@
 # Meu primeiro Projeto JavaScript 
 
-## Aluno 🦍
+## Aluno 🦍💨
 
 Nome: Vinicius Andrade Oliveira
 Turma: DS1A
