@@ -11,4 +11,10 @@ Turma: DS1A
 
 Este projeto foi desenvolvido durante a primeira aula de JavaScript.
 
-- o objetivo foi aprender: utilizar o VS Code;
+- o objetivo foi aprender: 
+- utilizar o VS Code;
+- executar JavaScript com Node.js 
+- utilizar o Terminal
+- criar documento utilizando Markdown
+
+---
